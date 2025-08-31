@@ -5,4 +5,5 @@
 <svg width="120" height="38">
   <rect x="4" y="4" width="103" height="30" fill="rgb(78, 166, 86)" stroke="rgb(95, 217, 108)" stroke-width="4" rx="10" />
   <text x="39" y="24" font-size="18" font-weight="bold" fill="white">Python</text>
+  <image height="22" x="10" y="7" href="https://img.icons8.com/?size=100&id=1909&format=png&color=FFFFFF" />
 </svg>

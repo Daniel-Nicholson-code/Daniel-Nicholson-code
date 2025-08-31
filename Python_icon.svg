@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="38" fill="none">
 <rect x="4" y="4" width="103" height="30" fill="rgb(78, 166, 86)" stroke="rgb(95, 217, 108)" stroke-width="4" rx="10" />
-  <text x="39" y="24" font-size="18" font-weight="bold" fill="white">Python</text>
+  <text x="39" y="24" font-size="18" font-weight="bold" fill="white" font-family="Arial, Helvetica, sans-serif">Python</text>
   <image height="22" x="10" y="7" href="https://img.icons8.com/?size=100&amp;id=1909&amp;format=png&amp;color=FFFFFF" />
 </svg>

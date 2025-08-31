@@ -1,16 +1,21 @@
-## Hi there 👋
+## About me
 
-<!--
-**Daniel-Nicholson-code/Daniel-Nicholson-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics BSc student at University of Newcastle upon Tyne. Trying to code everyday
 
-Here are some ideas to get you started:
+I document all my projects on my [website](https://github.com/Daniel-Nicholson-code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## My GitHub stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Nicholson-code&show_icons=true&theme=transparent&hide=stars,issues&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=percentile&text_color=a3a3a3)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Nicholson-code&theme=transparent&hide_border=true&hide_title=true&layout=compact&text_color=a3a3a3)](https://github.com/anuraghazra/github-readme-stats)
+
+## My technologies
+
+<div>
+  <img src="https://raw.githubusercontent.com/Daniel-Nicholson-code/Daniel-Nicholson-code/main/Python_icon.svg" style="float:left;">
+  <img src="https://raw.githubusercontent.com/Daniel-Nicholson-code/Daniel-Nicholson-code/main/Cpp_icon.svg" style="float:left;">
+  <img src="https://raw.githubusercontent.com/Daniel-Nicholson-code/Daniel-Nicholson-code/main/Javascript_icon.svg" style="float:left;">
+</div>

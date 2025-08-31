@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="147" height="38" fill="none">
-<rect x="4" y="4" width="130" height="30" fill="rgb(235, 225, 110)" stroke="rgb(252, 242, 119)" stroke-width="4" rx="10" />
+<rect x="4" y="4" width="130" height="30" fill="rgb(209, 200, 96)" stroke="rgb(237, 227, 104)" stroke-width="4" rx="10" />
   <text x="39" y="24" font-size="18" font-weight="bold" fill="white" font-family="Arial, Helvetica, sans-serif">Javascript</text>
   <image height="22" x="10" y="8" href="https://img.icons8.com/ios_filled/512/FFFFFF/javascript.png" />
 </svg>

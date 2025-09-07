@@ -2,7 +2,7 @@
 
 Mathematics BSc student at University of Newcastle upon Tyne. Trying to code everyday
 
-I document all my projects on my [website](http://www.danielnicholson.uk)
+I document all my projects on my [website](https://www.danielnicholson.uk)
 
 <br>
 

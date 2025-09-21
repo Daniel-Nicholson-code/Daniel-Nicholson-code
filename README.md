@@ -1,6 +1,6 @@
 ## About me
 
-Mathematics BSc student at University of Newcastle upon Tyne
+Mathematics BSc student at University of Newcastle upon Tyne.
 
 I document all my projects on my [website](https://www.danielnicholson.uk)
 
